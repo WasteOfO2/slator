@@ -15,7 +15,7 @@
 
 	 /*Colors*/
 	 /*var(--alternate-background-color) discontinued*/
-	 --background-color: #1e2426;
+	 --background-color: #0d0c0c;
 	 --box-bg-color: #1e2426; /*Only Current use is an outline of "New Messages #" */
 	 --table-background-color: #1e2426;
 	 --alternate-background-color: #262d30; /*Used for every second table row + read torrents*/
@@ -49,7 +49,7 @@ html {
 body {
 	width: 100%;
 	background-color: var(--background-color);
-	font-family: iosevka, helvetica, sans-serif;
+	font-family: tahoma, helvetica, sans-serif;
 	font-size: 9pt;
 	color: var(--text-color);
 	min-width: 850px;
